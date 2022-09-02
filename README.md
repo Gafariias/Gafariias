@@ -47,7 +47,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gafariias&show_icons=true&theme=aura_dark&border_color=DC6668) 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gafariias&layout=compact&theme=aura_dark&border_color=DC6668)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gafariias&repo=stackx_list_react&theme=aura_dark&border_color=DC6668)](https://github.com/Gafariias/stackx_list_react) 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gafariias&repo=clone-spotify-web-player&theme=aura_dark&border_color=DC6668)](https://github.com/Gafariias/clone-spotify-web-player)
+
 
 </div>
