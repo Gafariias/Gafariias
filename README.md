@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <h2>
+  <h1>
     Hello there, I'm Gabriel Farias 👋</br>
-  </h2>
+  </h1>
 </div>
 
 <div id="badges" align="center">
