@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Instagram-violet?logo=instagram&logoColor=white&style=for-the-badge">
   </a>
   
-  <a href="https://gafariias.github.io/portifolio/">
+  <a href="https://gafariias.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge">
   </a> </br>
   
