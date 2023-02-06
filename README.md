@@ -35,9 +35,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50">
 </div>
 
 ---
