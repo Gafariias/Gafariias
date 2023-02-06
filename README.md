@@ -22,7 +22,7 @@
 
 ### About me:
 ### I'm a Full-Stack React/Java Junior developer currently living in Brazil 🌎
-- ### 📖 Currently studying Front-End frameworks (Angular and VueJS) 
+- ### 📖 Currently studying Full-Stack applications (Spring boot and ReactJs) 
 - ### 🚀 I'm looking for a job (freelancer or Full-time) 
 - ### 🎮 In my free time I like to play video-games
 
